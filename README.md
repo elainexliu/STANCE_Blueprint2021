@@ -9,4 +9,6 @@ and
 
 STANCE_A_Posture_Application > app > src > main > res
 
+Note: it also runs best on a connected mobile device.
+
 Enjoy!
