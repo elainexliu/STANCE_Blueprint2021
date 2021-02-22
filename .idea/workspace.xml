@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a548857-2d5c-43b3-bd9c-7879e16e5a8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/STANCE_A_Posture_Application_FINAL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/androidTest/java/com/blueprint/tiltsensor/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/java/com/blueprint/tiltsensor/Activity2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/java/com/blueprint/tiltsensor/Activity3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/java/com/blueprint/tiltsensor/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/java/com/blueprint/tiltsensor/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/java/com/blueprint/tiltsensor/data_model/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/java/com/blueprint/tiltsensor/sensor_access/StatisticsViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/danger_neck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/green_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/green_ok_neck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/half_and_half.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/ic_one.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/ic_two.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/ok_neck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/red_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/red_warning_neck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/stretch_guide1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/stretch_guide2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/warning_neck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/yellow_circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/drawable/yellow_wrapped_neck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/layout-land/activity_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/layout-land/activity_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/layout-land/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/layout/activity_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/layout/activity_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/raw/video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/src/test/java/com/blueprint/tiltsensor/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ooY1ySUUFUb2sOBP4reOBAaqQs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/Elaine/STANCE_A_Posture_Application_FINAL/STANCE_A_Posture_Application_FINAL/app/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/STANCE_A_Posture_Application_FINAL/app/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.C:/Elaine/STANCE_A_Posture_Application_FINAL/STANCE_A_Posture_Application_FINAL/app/build.gradle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a548857-2d5c-43b3-bd9c-7879e16e5a8a" name="Default Changelist" comment="" />
+      <created>1613954198027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613954198027</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="232" key="#Notifications" timestamp="1614005123505">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="450" y="232" key="#Notifications/0.0.1280.760@0.0.1280.760" timestamp="1614005123505" />
+    <state x="112" y="109" width="1060" height="520" key="AVDManager" timestamp="1613955329430">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="112" y="109" width="1060" height="520" key="AVDManager/0.0.1280.760/3840.0.1920.1040@0.0.1280.760" timestamp="1613955329430" />
+    <state x="424" y="124" key="FileChooserDialogImpl" timestamp="1613955276323">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="424" y="124" key="FileChooserDialogImpl/0.0.1280.760/3840.0.1920.1040@0.0.1280.760" timestamp="1613955276323" />
+    <state x="449" y="267" key="Github.ShareDialog" timestamp="1614005086105">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="449" y="267" key="Github.ShareDialog/0.0.1280.760@0.0.1280.760" timestamp="1614005086105" />
+    <state x="334" y="75" key="Github.UntrackedFilesDialog" timestamp="1614005101071">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="334" y="75" key="Github.UntrackedFilesDialog/0.0.1280.760@0.0.1280.760" timestamp="1614005101071" />
+    <state width="1204" height="174" key="GridCell.Tab.0.bottom" timestamp="1614009060435">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="602" height="174" key="GridCell.Tab.0.bottom/0.0.1280.760/3840.0.1920.1040@0.0.1280.760" timestamp="1613954920025" />
+    <state width="1204" height="174" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1614009060435" />
+    <state width="1204" height="174" key="GridCell.Tab.0.center" timestamp="1614009060435">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="602" height="174" key="GridCell.Tab.0.center/0.0.1280.760/3840.0.1920.1040@0.0.1280.760" timestamp="1613954920025" />
+    <state width="1204" height="174" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1614009060435" />
+    <state width="1204" height="174" key="GridCell.Tab.0.left" timestamp="1614009060435">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="602" height="174" key="GridCell.Tab.0.left/0.0.1280.760/3840.0.1920.1040@0.0.1280.760" timestamp="1613954920024" />
+    <state width="1204" height="174" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1614009060435" />
+    <state width="1204" height="174" key="GridCell.Tab.0.right" timestamp="1614009060435">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="602" height="174" key="GridCell.Tab.0.right/0.0.1280.760/3840.0.1920.1040@0.0.1280.760" timestamp="1613954920025" />
+    <state width="1204" height="174" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1614009060435" />
+    <state x="152" y="14" key="SettingsEditor" timestamp="1613955212895">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="152" y="14" key="SettingsEditor/0.0.1280.760/3840.0.1920.1040@0.0.1280.760" timestamp="1613955212895" />
+  </component>
+</project>
